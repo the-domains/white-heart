@@ -1,0 +1,14 @@
+layout_spectrum: 0.6178610255010426
+typography_spectrum: 0.17581399879418314
+color:
+  brandStrength: 0.05616562184877694
+  lightness: 0.47513222182169557
+  saturation: 0.5764308357611299
+  rhythmicContrast: 0.9114743217360228
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: white-heart
